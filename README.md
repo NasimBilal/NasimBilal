@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasimBilal
-- 👀 I’m interested in React Js, JavaScript, CSS.
+- 👀 I’m interested in React Js, JavaScript, CSS, html.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on React JS
 - 📫 You can reach me through facebook https://www.facebook.com/nasim.kottukkara/
